@@ -31,7 +31,6 @@
 - Prettier
 - Husky (Git Hooks)
 - Lint-staged
-- TypeScript
 - PWA 지원 (next-pwa)
 - Turbopack (개발 서버)
 
